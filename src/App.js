@@ -14,7 +14,8 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >i was changed!df
+        >
+          Learn React
         </a>
       </header>
     </div>
